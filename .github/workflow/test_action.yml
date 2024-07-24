@@ -1,0 +1,2 @@
+- name: HCL AppScan Static Analyzer
+  uses: HCL-TECH-SOFTWARE/appscan-sast-action@v1.0.4
